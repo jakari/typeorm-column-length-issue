@@ -1,0 +1,8 @@
+{
+  "type": "postgres",
+  "host": "localhost",
+  "username": "test",
+  "password": "test",
+  "database": "test",
+  "entities": ["entities/*.ts"]
+}
